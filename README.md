@@ -16,5 +16,3 @@
 
 - 병원에 내원하여 직접적인 검사를 받는 대신 국민건강영양조사만으로도 질병에 해당하는지 유추 가능
 - 질병에 영향을 미치는 영양 수치를 조절함으로써 질병을 미리 예방할 수 있을 것으로 요망됨
-
-![image](https://github.com/kimmingji/KNHANES-Data-Analysis/assets/113088688/576b1c71-7912-48da-9ac1-856dc363aeb0)
